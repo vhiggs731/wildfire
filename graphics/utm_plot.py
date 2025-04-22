@@ -2,7 +2,7 @@
 M Young, 2022-09-17
 """
 
-import graphics.graphics as graphics
+import graphics
 
 import logging
 logging.basicConfig()
